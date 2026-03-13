@@ -1,0 +1,9 @@
+
+public class MyFirstClass {
+	
+	{
+		
+		System.out.println("하하 꿈을 펼쳐야지~~~");
+	}
+
+}
