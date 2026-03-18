@@ -1,6 +1,17 @@
 package com.kh.variable;
 
 public class Variable {
+	
+	/*
+	 * git add .
+	 * git commit -m "뭐했는지"
+	 * git push origin main
+	 * 
+	 * 
+	 */
+	
+	
+	
 	// 이녀석도 어디 한 번...?
 	
 	// 변수 : Memory(RAM)에 값을 저장하기 위한 공간
