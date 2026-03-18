@@ -1,7 +1,0 @@
-package com.kh.second;
-
-public class PrintController {
-	
-	System.out.print("하하호흐흐히히");
-
-}
